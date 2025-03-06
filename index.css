@@ -1,0 +1,261 @@
+body{
+    background-color: white;
+}
+
+.nav-bar{
+border-bottom: 1px solid black;
+}
+.rated{
+    display: inline-block;
+    padding:30px;
+}
+.column-a{
+    float:left;
+    width: 33.33%;
+    margin-left: 25px;
+    font-size: 200%;
+}
+.column-b{
+    width: 33.33%;
+    float: left;
+    margin-bottom:80px ;
+}
+.log{
+    float: right;
+}
+
+.logos1{
+    border: none;
+    border-radius: 10px;
+    font-weight: 800;
+    background-color: orangered;
+    padding: 1px 30px;
+}
+.logos{
+    background-color:white;
+    border-radius: 10px;
+    padding: 1px 30px;
+    margin: 8px;
+    border: 1px solid lightgrey;
+}
+li button{
+    background-color: rgb(241,94,26
+    );
+    border-radius: 7px;
+    font-weight: bold;
+    border: none;
+    padding: 5px 15px;
+}
+.page1{
+    float:left;
+    clear: left;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.home-img{
+    width: 500px;
+    height: 500px;
+    margin-left: 400px;
+    margin-bottom: 300px;
+    border-bottom: 2px solid white;
+    box-shadow: 5px 10px 10px #888888;
+    background-color: white;
+    
+}
+.btn-buy {
+    border-radius: 3px;
+    padding: 10px 15px;
+}
+
+.btn-rent {
+    border-radius: 3px;
+    padding: 10px 15px;
+    background-color: white;
+    border: 1px solid orangered;
+    color: orangered;
+}
+
+.top-rated {
+    padding-top: -100px;
+    margin-top: -200px;
+
+
+}
+
+.top-items {
+    padding: 13px 50px;
+    border: 1px solid grey;
+    background-color: aliceblue;
+}
+
+.mercedes {
+    padding: 13px 50px;
+    border: none;
+    background-color: rgb(239, 110, 12);
+}
+
+.column-cars{
+    float: left;
+    width: 30%;
+    padding: 10px;
+    margin-left: 30px;
+    padding-top: 90px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    height: 450px;
+    border-radius: 5px;
+  }
+
+@media screen and (max-width: 500px) {
+    .column-cars {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+
+.photos {
+    width: 100%;
+    height: 280px;
+
+    background-color: papayawhip;
+}
+.more-info {
+    background-color: rgb(202, 69, 7);
+    border-radius: 3px;
+    padding: 10px 12px;
+    font-weight: 600;
+    border: none;
+}
+
+.clientfeedback {
+    margin-left: 80px;
+}
+
+.column-client {
+    float: left;
+    width: 30%;
+    padding: 10px;
+    margin-left: 10px;
+    padding-top: 40px;
+    text-align: center;
+
+}
+
+.column4{
+    background-color: antiquewhite;
+    margin-top: 600px;
+    text-align: center;
+    padding-bottom: 200px;
+    border-radius: 20px;
+    border-width:30%;
+    border-bottom: 50px;
+    margin-bottom: 300px;
+    height: 30px;
+    box-shadow: 15px 8px 5px #888888;
+
+}
+h7{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.app{
+    width: 200px;
+    height: 100px;
+    margin-bottom: 70px;
+    margin-left: 20px;
+    background-color: ;
+}
+
+ .play{
+width: 100px;
+height:50px;
+margin-bottom: 100px;
+margin-left: 20px;
+background-color: pink;
+ }
+ .rental{
+    width: 150px;
+    height: 300px;
+    margin-left: 800px;
+    margin-top: -600px;
+    margin-bottom: 20px;
+ }
+ h8{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+ }
+ .column5{
+    float: left;
+    width: 20%;
+    margin-left: 30px;
+ }
+ .column6{
+    float: left;
+    
+    width: 20%;
+ }
+ .column7{
+    float: left;
+    width: 20%;
+ }
+ 
+ input{
+    display: list-item;
+    border-radius: 5px;
+    padding: 10px;
+    border: 3px solid orangered;
+    margin: 5px;
+ }
+ .submit{
+    background-color: orangered;
+    border: none;
+    padding: 5px 19px;
+ }
+ .mercedes1{
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    border: 5px solid none;
+    background-color: orangered;
+ }
+ .Audi{
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    border: 5px solid none;
+ }
+ .Honda{
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    border: 5px solid none;
+    
+ }
+ .Toyota{
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    border: 5px solid none;
+ }
+ .Mazda{
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    border: 5px solid none;
+ }
+ span{
+    color: orangered;
+ }
+.image-txt{
+    display: inline;
+    margin: 80px;
+}
+.row3{
+    margin-left: 300px;
+    margin-top: -200px;
+}
